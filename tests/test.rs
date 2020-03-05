@@ -37,7 +37,7 @@ mod test_cases {
     }
 
     #[test]
-    pub fn nonunique() {
+    pub fn nonunique_even_or_odd() {
         let mut nums = vec![];
         let even: fn(&&usize) -> bool = |&&n| n % 2 == 0;
         let odd: fn(&&usize) -> bool = |&&n| n % 2 != 0;
