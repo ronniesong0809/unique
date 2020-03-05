@@ -4,7 +4,7 @@
 
 Copyright (c) 2020 Ronnie Song
 
-This is a Rust based "unique" library crate that find the unique value from an iterator safisfying a predicate.
+This is a Rust based "unique" library crate that find the unique value from an iterator satisfying a predicate.
 
 ## Usage
 
